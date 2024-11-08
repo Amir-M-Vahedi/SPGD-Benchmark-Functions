@@ -81,13 +81,14 @@ $$f(x, y) = -\frac{1+\cos(12\sqrt{x^2+y^2})}{0.5(x^2+y^2)+2}$$
 ## Citation
 Please cite the following paper if you use this algorithm in your research:
 ```bibtex
-@article{SPGD,
-  title={SPGD: Steepest Perturbed Gradient Descent Optimization},
-  author={Amir M. Vahedi, Horea T. Ilies},
-  journal={Journal of Mechanical Design},
-  year={2024},
-  volume={vol},
-  pages={pages}
+@misc{SPGD,
+      title={SPGD: Steepest Perturbed Gradient Descent Optimization}, 
+      author={Amir M. Vahedi and Horea T. Ilies},
+      year={2024},
+      eprint={2411.04946},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2411.04946}, 
 }
 ```
 ## Contributions
