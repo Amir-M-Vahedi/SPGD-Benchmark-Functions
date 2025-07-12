@@ -10,7 +10,7 @@ This pseudocode illustrates how SPGD periodically introduces perturbations at pr
 ---
 
 📢 **Update**:  
-- The SPGD paper is now available on **arXiv**: [https://arxiv.org/abs/2411.04946](https://arxiv.org/abs/2411.04946)  
+- The new draft of SPGD paper is now available on **arXiv**: [https://arxiv.org/abs/2411.04946](https://arxiv.org/abs/2411.04946)  
 - **Bayesian Optimization** has been added as a new comparison method.
 - A **30-trial random initialization test** has been conducted to assess robustness across different starting points.
 
